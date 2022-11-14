@@ -28,7 +28,7 @@ A empresa fictícia F4Life foi criada e é uma empresa de aluguéis de quartos p
 ## Status do projeto
 * Concluído.
 
-[F4 LIFE: Moradias Universitárias](https://chilly-rest.surge.sh)
+[F4 LIFE: Moradias Universitárias](https://gileadraab.github.io/f4life/)
 
 
 
